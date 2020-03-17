@@ -11,6 +11,7 @@ void Beginner() {
 	void task2573(), task1395();
 	void task2608(), task2606();
 
+
 	int task_number_Beginner;
 
 	cout << "Выберите номер задания." << endl;
