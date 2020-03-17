@@ -1,4 +1,4 @@
-#include <iostream>
+ï»¿#include <iostream>
 
 using namespace std;
 
@@ -7,7 +7,7 @@ void Hard() {
 
 	int task_number_Hard;
 
-	cout << "Âûáåğèòå íîìåğ çàäàíèÿ." << endl;
+	cout << "Ğ’Ñ‹Ğ±ĞµÑ€Ğ¸Ñ‚Ğµ Ğ½Ğ¾Ğ¼ĞµÑ€ Ğ·Ğ°Ğ´Ğ°Ğ½Ğ¸Ñ." << endl;
 	cin >> task_number_Hard;
 
 	switch (task_number_Hard) {

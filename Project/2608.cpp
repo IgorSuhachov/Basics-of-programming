@@ -1,25 +1,25 @@
-#include <iostream>
+ï»¿#include <iostream>
 
 using namespace std;
 
 void task2608() {
 	int n, n_1;
-	cout << "Ñðàâíåíèå ÷èñåë èñïîëüçóÿ îïåðàòîð âåòâëåíèÿ" << endl;
+	cout << "â€”Ñ€Ð°Ð²Ð½ÐµÐ½Ð¸Ðµ Ñ‡Ð¸ÑÐµÐ» Ð¸ÑÐ¿Ð¾Ð»ÑŒÐ·ÑƒÂ¤ Ð¾Ð¿ÐµÑ€Ð°Ñ‚Ð¾Ñ€ Ð²ÐµÑ‚Ð²Ð»ÐµÐ½Ð¸Â¤" << endl;
 	
-	cout << "Ââåäèòå 1 ÷èñëî: ";
+	cout << "Â¬Ð²ÐµÐ´Ð¸Ñ‚Ðµ 1 Ñ‡Ð¸ÑÐ»Ð¾: ";
 	cin >> n;
 
-	cout << "Ââåäèòå 2 ÷èñëî: ";
+	cout << "Â¬Ð²ÐµÐ´Ð¸Ñ‚Ðµ 2 Ñ‡Ð¸ÑÐ»Ð¾: ";
 	cin >> n_1;
 
 	if (n < n_1)
-		cout << "Ìåíüøå" << endl;
+		cout << "Ñ›ÐµÐ½ÑŒÑˆÐµ" << endl;
 
 	else if (n > n_1)
-		cout << "Áîëüøå" << endl;
+		cout << "Ð…Ð¾Ð»ÑŒÑˆÐµ" << endl;
 
 	else
-		cout << "Îäèíàêîâî" << endl;
+		cout << "ÑœÐ´Ð¸Ð½Ð°ÐºÐ¾Ð²Ð¾" << endl;
 
 	system("pause");
 	system("cls");

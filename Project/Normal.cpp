@@ -1,4 +1,4 @@
-#include <iostream>
+ï»¿#include <iostream>
 
 using namespace std;
 
@@ -9,7 +9,7 @@ void Normal() {
 
 	int task_number_Normal;
 
-	cout << "Âûáåðèòå íîìåð çàäàíèÿ." << endl;
+	cout << "Ð’Ñ‹Ð±ÐµÑ€Ð¸Ñ‚Ðµ Ð½Ð¾Ð¼ÐµÑ€ Ð·Ð°Ð´Ð°Ð½Ð¸Ñ." << endl;
 	cin >> task_number_Normal;
 
 	switch (task_number_Normal) {
@@ -137,7 +137,7 @@ void Normal() {
 		break;
 
 	default:
-		cout << "Âû ââåëè íåâåðíûé íîìåð çàäàíèÿ";
+		cout << "Ð’Ñ‹ Ð²Ð²ÐµÐ»Ð¸ Ð½ÐµÐ²ÐµÑ€Ð½Ñ‹Ð¹ Ð½Ð¾Ð¼ÐµÑ€ Ð·Ð°Ð´Ð°Ð½Ð¸Ñ";
 		break;
 	}
 }

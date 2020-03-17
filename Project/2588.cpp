@@ -1,4 +1,4 @@
-#include <iostream>
+ï»¿#include <iostream>
 
 using namespace std;
 
@@ -14,7 +14,7 @@ void task2588() {
 	cout << "f = ";
 	cin >> f;
 
-	cout << "Âû÷èñëÿåì ïî ôîðìóëå: x = (a + b - f / a) + f * a * a - (a + b)" << endl;
+	cout << "Ð’Ñ‹Ñ‡Ð¸ÑÐ»ÑÐµÐ¼ Ð¿Ð¾ Ñ„Ð¾Ñ€Ð¼ÑƒÐ»Ðµ: x = (a + b - f / a) + f * a * a - (a + b)" << endl;
 	x = (a + b - f / a) + f * a * a - (a + b);
 	cout << "x = " << x << endl;
 
