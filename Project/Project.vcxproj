@@ -147,12 +147,12 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="5058_n.cpp" />
+    <ClCompile Include="5058.cpp" />
     <ClCompile Include="Beginner.cpp" />
     <ClCompile Include="Hard.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="Normal.cpp" />
-    <ClCompile Include="task2591_b.cpp" />
+    <ClCompile Include="2591.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
