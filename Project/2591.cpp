@@ -15,6 +15,12 @@ void task2591() {
 		cin >> n;
 	}
 
+	cout << "1 цифра равна " << (n / 10000) << endl;
+	cout << "2 цифра равна " << (n / 1000) % 10 << endl;
+	cout << "3 цифра равна " << (n / 100) % 10 << endl;
+	cout << "4 цифра равна " << (n / 10) % 10 << endl;
+	cout << "5 цифра равна " << n % 10 << endl << endl;
 
-
+	system("pause");
+	system("cls");
 }
