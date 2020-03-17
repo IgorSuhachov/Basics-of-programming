@@ -5,6 +5,8 @@ using namespace std;
 void Beginner() {
 	setlocale(LC_ALL, "rus");
 
+	void task2591();
+
 	int task_number_Beginner;
 
 	cout << "Выберите номер задания." << endl;
@@ -12,6 +14,7 @@ void Beginner() {
 
 	switch (task_number_Beginner) {
 	case 1:
+		task2591();
 		break;
 
 	case 2:
