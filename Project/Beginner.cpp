@@ -71,6 +71,7 @@ void Beginner() {
 		break;
 
 	default:
+		cout << "Выберите правильное задание\n\n";
 		break;
 	}
 }

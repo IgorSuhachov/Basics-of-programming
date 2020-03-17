@@ -11,7 +11,7 @@ int main() {
 
 	while (true) {
 		cout << "Выберите желаемый уровень сложности задач";
-		cout << "\n1. Beginner\n2. Normal\n3. Hard\n0. Выход\n";
+		cout << "\n\n1. Beginner\n2. Normal\n3. Hard\n0. Выход\n";
 		cin >> level;
 
 		switch (level) {
