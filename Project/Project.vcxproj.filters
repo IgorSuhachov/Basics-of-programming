@@ -45,5 +45,32 @@
     <ClCompile Include="5058.cpp">
       <Filter>Исходные файлы\Levels\Normal</Filter>
     </ClCompile>
+    <ClCompile Include="2588.cpp">
+      <Filter>Исходные файлы\Levels\Beginner</Filter>
+    </ClCompile>
+    <ClCompile Include="4615.cpp">
+      <Filter>Исходные файлы\Levels\Beginner</Filter>
+    </ClCompile>
+    <ClCompile Include="2586.cpp">
+      <Filter>Исходные файлы\Levels\Beginner</Filter>
+    </ClCompile>
+    <ClCompile Include="2598.cpp">
+      <Filter>Исходные файлы\Levels\Beginner</Filter>
+    </ClCompile>
+    <ClCompile Include="2567.cpp">
+      <Filter>Исходные файлы\Levels\Beginner</Filter>
+    </ClCompile>
+    <ClCompile Include="2573.cpp">
+      <Filter>Исходные файлы\Levels\Beginner</Filter>
+    </ClCompile>
+    <ClCompile Include="1395.cpp">
+      <Filter>Исходные файлы\Levels\Beginner</Filter>
+    </ClCompile>
+    <ClCompile Include="2608.cpp">
+      <Filter>Исходные файлы\Levels\Beginner</Filter>
+    </ClCompile>
+    <ClCompile Include="2606.cpp">
+      <Filter>Исходные файлы\Levels\Beginner</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
