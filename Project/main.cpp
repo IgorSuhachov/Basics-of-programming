@@ -7,12 +7,11 @@ int main() {
 
 	void Normal(), Beginner(), Hard();
 
-	int task_number_Beginner;
-	int task_number_Hard;
 	int level;
 
 	while (true) {
-		cout << "Выберите желаемый уровень сложности задач:";
+		cout << "Выберите желаемый уровень сложности задач";
+		cout << "\n1.Beginner\n2.Normal\n3.Hard" << endl;
 		cin >> level;
 
 		switch (level) {
