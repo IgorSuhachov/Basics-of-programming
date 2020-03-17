@@ -1,9 +1,2 @@
-﻿  5058_normal.cpp
-  main.cpp
-D:\Projects\C++\Основы программирования\2 курс 2 полусеместр\Tasks from cppstudio\Project\Project\main.cpp(11,6): warning C4101: task_number_Hard: неиспользованная локальная переменная
-D:\Projects\C++\Основы программирования\2 курс 2 полусеместр\Tasks from cppstudio\Project\Project\main.cpp(10,6): warning C4101: task_number_Beginner: неиспользованная локальная переменная
-  Normal.cpp
-  Создание кода...
-main.obj : error LNK2019: ёё√ыър эр эхЁрчЁх°хээ√щ тэх°эшщ ёшьтюы "void __cdecl Beginner(void)" (?Beginner@@YAXXZ) т ЇєэъЎшш _main
-main.obj : error LNK2019: ёё√ыър эр эхЁрчЁх°хээ√щ тэх°эшщ ёшьтюы "void __cdecl Hard(void)" (?Hard@@YAXXZ) т ЇєэъЎшш _main
-D:\Projects\C++\╬ёэют√ яЁюуЁрььшЁютрэш \2 ъєЁё 2 яюыєёхьхёЄЁ\Tasks from cppstudio\Project\Debug\Project.exe : fatal error LNK1120: эхЁрчЁх°хээ√ї тэх°эшї ¤ыхьхэЄют: 2
+﻿  task2591_b.cpp
+  Project.vcxproj -> D:\Projects\C++\Основы программирования\2 курс 2 полусеместр\Tasks from cppstudio\Project\Debug\Project.exe
