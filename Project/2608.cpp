@@ -12,10 +12,10 @@ void task2608() {
 	cout << "Введите 2 число: ";
 	cin >> n_1;
 
-	if (n<n_1)
+	if (n < n_1)
 		cout << "Меньше" << endl;
 
-	else if (n>n_1)
+	else if (n > n_1)
 		cout << "Больше" << endl;
 
 	else
