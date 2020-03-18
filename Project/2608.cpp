@@ -4,22 +4,22 @@ using namespace std;
 
 void task2608() {
 	int n, n_1;
-	cout << "—равнение чисел использу¤ оператор ветвлени¤" << endl;
+	cout << "Сравнение чисел используя оператор ветвления" << endl;
 	
-	cout << "¬ведите 1 число: ";
+	cout << "Введите 1 число: ";
 	cin >> n;
 
-	cout << "¬ведите 2 число: ";
+	cout << "Введите 2 число: ";
 	cin >> n_1;
 
 	if (n < n_1)
-		cout << "ћеньше" << endl;
+		cout << "Меньше" << endl;
 
 	else if (n > n_1)
-		cout << "Ѕольше" << endl;
+		cout << "Больше" << endl;
 
 	else
-		cout << "ќдинаково" << endl;
+		cout << "Одинаково" << endl;
 
 	system("pause");
 	system("cls");

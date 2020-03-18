@@ -85,6 +85,7 @@ void Hard() {
 		break;
 
 	default:
+		cout << "Выберите правильное задание\n\n";
 		break;
 	}
 }
