@@ -5,6 +5,8 @@ using namespace std;
 int main() {
 	setlocale(LC_ALL, "rus");
 
+	system("color 02");
+
 	void Beginner(), Normal(), Hard();
 
 	int level;

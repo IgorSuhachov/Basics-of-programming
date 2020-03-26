@@ -5,11 +5,22 @@ using namespace std;
 void Normal() {
 	setlocale(LC_ALL, "rus");
 
-	void task5058();
+	void task5058(), task1315();
+	void task1368(), task1510();
 
 	int task_number_Normal;
 
-	cout << "Выберите номер задания." << endl;
+	cout << "Выберите номер задания.";
+
+	cout << "\n\t10. ";
+	cout << "\n\t11. Найти в массиве нечётные числа";
+	cout << "\n\t12. ";
+	cout << "\n\t13. ";
+	cout << "\n\t14. Описать класс Работник";
+	cout << "\n\t15. Переписать все элементы двумерного массива в одномерный";
+	cout << "\n\t16. \n";
+
+	cout << "Номер: ";
 	cin >> task_number_Normal;
 
 	switch (task_number_Normal) {
@@ -54,7 +65,7 @@ void Normal() {
 		break;
 
 	case 11:
-
+		task1315();
 		break;
 
 	case 12:
@@ -66,11 +77,11 @@ void Normal() {
 		break;
 
 	case 14:
-
+		task1510();
 		break;
 
 	case 15:
-
+		task1368();
 		break;
 
 	case 16:

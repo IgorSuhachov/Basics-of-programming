@@ -72,5 +72,14 @@
     <ClCompile Include="2606.cpp">
       <Filter>Исходные файлы\Levels\Beginner</Filter>
     </ClCompile>
+    <ClCompile Include="1315.cpp">
+      <Filter>Исходные файлы\Levels\Normal</Filter>
+    </ClCompile>
+    <ClCompile Include="1368.cpp">
+      <Filter>Исходные файлы\Levels\Normal</Filter>
+    </ClCompile>
+    <ClCompile Include="1510.cpp">
+      <Filter>Исходные файлы\Levels\Normal</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
