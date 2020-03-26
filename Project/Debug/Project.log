@@ -1,5 +1,10 @@
-﻿  1510.cpp
+﻿  1315.cpp
+D:\Projects\C++\Основы программирования\2 курс 2 полусеместр\Tasks from cppstudio\Project\Project\1315.cpp(9,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  1368.cpp
+D:\Projects\C++\Основы программирования\2 курс 2 полусеместр\Tasks from cppstudio\Project\Project\1368.cpp(10,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  1510.cpp
 D:\Projects\C++\Основы программирования\2 курс 2 полусеместр\Tasks from cppstudio\Project\Project\1510.cpp(33,19): warning C4244: =: преобразование "double" в "int", возможна потеря данных
 D:\Projects\C++\Основы программирования\2 курс 2 полусеместр\Tasks from cppstudio\Project\Project\1510.cpp(36,20): warning C4244: =: преобразование "double" в "int", возможна потеря данных
 D:\Projects\C++\Основы программирования\2 курс 2 полусеместр\Tasks from cppstudio\Project\Project\1510.cpp(39,21): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  Создание кода...
   Project.vcxproj -> D:\Projects\C++\Основы программирования\2 курс 2 полусеместр\Tasks from cppstudio\Project\Debug\Project.exe
