@@ -81,5 +81,8 @@
     <ClCompile Include="1510.cpp">
       <Filter>Исходные файлы\Levels\Normal</Filter>
     </ClCompile>
+    <ClCompile Include="1431.cpp">
+      <Filter>Исходные файлы\Levels\Normal</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

@@ -7,6 +7,7 @@ void Normal() {
 
 	void task5058(), task1315();
 	void task1368(), task1510();
+	void task1431();
 
 	int task_number_Normal;
 
@@ -19,6 +20,9 @@ void Normal() {
 	cout << "\n\t14. Описать класс Работник";
 	cout << "\n\t15. Переписать все элементы двумерного массива в одномерный";
 	cout << "\n\t16. \n";
+	cout << "\n\t17.";
+	cout << "\n\t18.";
+	cout << "\n\t19. Вопрос пользователю";
 
 	cout << "Номер: ";
 	cin >> task_number_Normal;
@@ -89,7 +93,7 @@ void Normal() {
 		break;
 
 	case 17:
-
+		task1431();
 		break;
 
 	case 18:
@@ -97,7 +101,7 @@ void Normal() {
 		break;
 
 	case 19:
-
+		task5058();
 		break;
 
 	case 20:

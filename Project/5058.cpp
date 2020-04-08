@@ -5,6 +5,8 @@ using namespace std;
 void task5058() {
 	setlocale(LC_ALL, "rus");
 
+	system("cls");
+
 	int answer;
 	string name;
 
@@ -25,4 +27,7 @@ void task5058() {
 	
 	cout << name << ", от всей души поздравляем вас!!!\tВсе цветы у Ваших ног, " << name << endl;
 	cout << "Эта музыка для вас!!!" << endl;
+
+	system("pause");
+	system("cls");
 }
