@@ -84,5 +84,20 @@
     <ClCompile Include="1431.cpp">
       <Filter>Исходные файлы\Levels\Normal</Filter>
     </ClCompile>
+    <ClCompile Include="5067.cpp">
+      <Filter>Исходные файлы\Levels\Normal</Filter>
+    </ClCompile>
+    <ClCompile Include="1506.cpp">
+      <Filter>Исходные файлы\Levels\Normal</Filter>
+    </ClCompile>
+    <ClCompile Include="8313.cpp">
+      <Filter>Исходные файлы\Levels\Normal</Filter>
+    </ClCompile>
+    <ClCompile Include="1355.cpp">
+      <Filter>Исходные файлы\Levels\Normal</Filter>
+    </ClCompile>
+    <ClCompile Include="1514.cpp">
+      <Filter>Исходные файлы\Levels\Normal</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
