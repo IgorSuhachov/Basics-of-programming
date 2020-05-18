@@ -1,3 +1,10 @@
-﻿  1431.cpp
-D:\Projects\C++\Basics-of-programming\Project\1431.cpp(13,15): warning C4244: =: преобразование "double" в "int", возможна потеря данных
-  Project.vcxproj -> D:\Projects\C++\Basics-of-programming\Debug\Project.exe
+﻿  1510.cpp
+8313.obj : error LNK2005: "void __cdecl task5067(void)" (?task5067@@YAXXZ) уже определен в 5067.obj
+Normal.obj : error LNK2019: ссылка на неразрешенный внешний символ "void __cdecl task8313(void)" (?task8313@@YAXXZ) в функции "void __cdecl Normal(void)" (?Normal@@YAXXZ)
+Normal.obj : error LNK2019: ссылка на неразрешенный внешний символ "void __cdecl task1526(void)" (?task1526@@YAXXZ) в функции "void __cdecl Normal(void)" (?Normal@@YAXXZ)
+Normal.obj : error LNK2019: ссылка на неразрешенный внешний символ "void __cdecl task5202(void)" (?task5202@@YAXXZ) в функции "void __cdecl Normal(void)" (?Normal@@YAXXZ)
+Normal.obj : error LNK2019: ссылка на неразрешенный внешний символ "void __cdecl task1392(void)" (?task1392@@YAXXZ) в функции "void __cdecl Normal(void)" (?Normal@@YAXXZ)
+Normal.obj : error LNK2019: ссылка на неразрешенный внешний символ "void __cdecl task1401(void)" (?task1401@@YAXXZ) в функции "void __cdecl Normal(void)" (?Normal@@YAXXZ)
+Normal.obj : error LNK2019: ссылка на неразрешенный внешний символ "void __cdecl task1378(void)" (?task1378@@YAXXZ) в функции "void __cdecl Normal(void)" (?Normal@@YAXXZ)
+Normal.obj : error LNK2019: ссылка на неразрешенный внешний символ "void __cdecl task2668(void)" (?task2668@@YAXXZ) в функции "void __cdecl Normal(void)" (?Normal@@YAXXZ)
+C:\Users\Игорь Сухачёв\Documents\GitHub\Basics-of-programming\Debug\Project.exe : fatal error LNK1120: неразрешенных внешних элементов: 7

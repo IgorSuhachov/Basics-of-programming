@@ -6,8 +6,8 @@ void task1510() {
 	system("cls");
 
 	string name;
-	int exp, money, hours;
-	int payment, premium;
+	double exp, money, hours;
+	double payment, premium;
 
 	cout << "\t\t\tЗадание 14(Normal)\n";
 	cout << "\t\tОписать класс Работник\n\n";

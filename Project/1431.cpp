@@ -5,7 +5,7 @@ using namespace std;
 void task1431() {
 	system("cls");
 
-	int salary, tax;
+	double salary, tax;
 
 	cout << "¬ведите мес€чную зарплату:";
 	cin >> salary;
