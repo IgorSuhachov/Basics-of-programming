@@ -26,7 +26,7 @@ void task1510() {
 
 	payment = hours * money;
 
-	if (exp <1)
+	if (exp < 1)
 		premium = 0;
 	else {
 		if (exp >= 1 && exp < 3)
